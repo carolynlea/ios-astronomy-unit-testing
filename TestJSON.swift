@@ -92,7 +92,7 @@ let validSol1JSON = """
         "status": "active",
         "max_sol": 2172,
         "max_date": "2018-09-15",
-        "total_photos": 341463,
+        "total_photos": 16,
         "cameras": [
           {
             "name": "FHAZ",
